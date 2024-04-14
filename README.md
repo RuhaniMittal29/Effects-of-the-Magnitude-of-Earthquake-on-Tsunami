@@ -1,0 +1,1 @@
+# Effects-of-the-Magnitude-of-Earthquake-on-Tsunami
