@@ -1,4 +1,4 @@
-## Effects of the Magnitude of Earthquake on Tsunami
+## Effects of the Magnitude of Earthquake on Tsunami 🌊📈
 
 Earthquakes are caused by the movement of tectonic plates, which can be thought of as puzzle pieces that make up the surface of the Earth. These tectonic plates are actively moving, and often their plate boundaries (edges of the tectonic plates), will reach a fault and result in an earthquake. Faults are areas on the Earth’s surface where fractures dwell, and it is because of these faults that tectonic plates are able to move. However, these fractures also make tectonic plates stick together due to the friction that the unsmooth surfaces generate. When the motion of the tectonic plates are finally large enough to overcome the static friction, all the energy built up from the movement of the plates is expelled at once, resulting in a huge release of energy.
 
